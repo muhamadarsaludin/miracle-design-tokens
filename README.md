@@ -23,7 +23,7 @@ npm i miracle-design-tokens
 ```
 
 # Changelog
-## [1.0.0] - 2023-10-06
+## [1.0.0] - 2023-10-07
 * Add new css global tokens
 * Add new css alias default tokens
 * Add new css alias dark tokens
