@@ -1,6 +1,6 @@
 {
   "name": "miracle-design-tokens",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Design tokens for Miracle Design System",
   "main": "index.js",
   "scripts": {

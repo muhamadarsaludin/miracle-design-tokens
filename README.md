@@ -23,7 +23,12 @@ npm i miracle-design-tokens
 ```
 
 # Changelog
+## [1.0.1] - 2023-10-07
+### Added
+* Add dist folder
+
 ## [1.0.0] - 2023-10-07
+### Added
 * Add new css global tokens
 * Add new css alias default tokens
 * Add new css alias dark tokens
