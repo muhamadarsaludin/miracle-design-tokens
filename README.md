@@ -23,6 +23,10 @@ npm i miracle-design-tokens
 ```
 
 # Changelog
+## [1.0.2] - 2023-10-07
+### Changed
+* Change font from Gotham SSm to DM Sans
+
 ## [1.0.1] - 2023-10-07
 ### Added
 * Add dist folder
