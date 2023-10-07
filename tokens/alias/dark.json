@@ -252,7 +252,7 @@
   "typography": {
     "small": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.400}",
         "lineHeight": "{line-height.3}",
         "fontSize": "{font-size.1}"
@@ -261,7 +261,7 @@
     },
     "body-1": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.400}",
         "lineHeight": "{line-height.5}",
         "fontSize": "{font-size.3}"
@@ -270,7 +270,7 @@
     },
     "body-2": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.400}",
         "lineHeight": "{line-height.4}",
         "fontSize": "{font-size.2}"
@@ -279,7 +279,7 @@
     },
     "heading-1": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.700}",
         "lineHeight": "{line-height.14}",
         "fontSize": "{font-size.11}"
@@ -288,7 +288,7 @@
     },
     "heading-2": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.700}",
         "lineHeight": "{line-height.12}",
         "fontSize": "{font-size.9}"
@@ -297,7 +297,7 @@
     },
     "heading-3": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.700}",
         "lineHeight": "{line-height.9}",
         "fontSize": "{font-size.7}"
@@ -306,7 +306,7 @@
     },
     "heading-4": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.700}",
         "lineHeight": "{line-height.7}",
         "fontSize": "{font-size.5}"
@@ -315,7 +315,7 @@
     },
     "heading-5": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.700}",
         "lineHeight": "{line-height.5}",
         "fontSize": "{font-size.3}"
@@ -324,7 +324,7 @@
     },
     "heading-6": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.700}",
         "lineHeight": "{line-height.4}",
         "fontSize": "{font-size.2}"
@@ -333,7 +333,7 @@
     },
     "display-1": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.700}",
         "lineHeight": "{line-height.23}",
         "fontSize": "{font-size.19}"
@@ -342,7 +342,7 @@
     },
     "display-2": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.700}",
         "lineHeight": "{line-height.21}",
         "fontSize": "{font-size.17}"
@@ -351,7 +351,7 @@
     },
     "display-3": {
       "value": {
-        "fontFamily": "{font-family.GothamSSm}",
+        "fontFamily": "{font-family.DMSans}",
         "fontWeight": "{font-weight.700}",
         "lineHeight": "{line-height.19}",
         "fontSize": "{font-size.15}"

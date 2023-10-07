@@ -622,8 +622,8 @@
     }
   },
   "font-family": {
-    "GothamSSm": {
-      "value": "GothamSSm",
+    "DMSans": {
+      "value": "DM Sans",
       "type": "fontFamilies"
     }
   },
